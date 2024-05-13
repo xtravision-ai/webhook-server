@@ -1,0 +1,16 @@
+{
+  "name": "webhook-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": {
+    "name": "Manish Trivedi",
+    "email": ""
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
